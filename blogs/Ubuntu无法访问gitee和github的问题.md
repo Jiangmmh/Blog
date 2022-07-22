@@ -1,3 +1,5 @@
+# Ubuntu无法解析gitee的问题
+
 ## 问题描述
 
 在ubuntu虚拟机下克隆gitee仓库时报错，无法解析gitee.com。
